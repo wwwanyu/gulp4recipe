@@ -11,5 +11,6 @@ Get started!
 
 0. Install GIT
 1. Install node.js
-2. execute command line: npm install
-3. execute command line: gulp watch
+2. npm install --global gulp-cli
+3. execute command line: npm install
+4. start gulp: gulp watch
